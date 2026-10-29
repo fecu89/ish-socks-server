@@ -137,4 +137,5 @@ VPN이 켜져 있으면 iOS가 알아서 모든 트래픽을 VPN으로 보내므
 ## 출처
 
 - 원본: [nneonneo/iOS-SOCKS-Server](https://github.com/nneonneo/iOS-SOCKS-Server) — @nneonneo 작성. 통계 화면과 IPv6 지원은 @philrosenthal이 추가했습니다.
-- `dns/` 폴더는 [dnspython](https://www.dnspython.org/) 2.3.0을 그대로 포함한 것입니다.
+- `dns/` 폴더는 [dnspython](https://www.dnspython.org/) 2.3.0을 그대로 포함한 것입니다(ISC 라이선스, `dns/LICENSE`).
+- 원본 코드의 권리는 원작자에게 있습니다. 자세한 내용은 `LICENSE`를 보세요.
